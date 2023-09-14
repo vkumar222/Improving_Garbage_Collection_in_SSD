@@ -1,0 +1,9 @@
+.vscode
+ssd
+*.0
+*.o
+*~
+*.trace
+.DS_Store
+.idea
+cmake-build-debug
